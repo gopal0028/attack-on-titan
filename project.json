@@ -1,0 +1,30 @@
+{
+  "overview": "A high-end, production-grade cinematic web experience for Attack on Titan — an interactive digital museum and story journey combining the feel of a movie, game, and story in one immersive experience.",
+  "features": [
+    "4-phase cinematic intro sequence with preloader, fog transition, wall reveal, and dramatic hero cut",
+    "Advanced character system with animated cards, cinematic modals, stats visualization, sorting and filtering",
+    "Titan database with classified military archive UI and reveal animations",
+    "Interactive stylized world map with clickable locations and tooltips",
+    "Vertical scroll storytelling timeline with per-arc backgrounds",
+    "Survey Corps Terminal with typing animations and military database UI",
+    "Multi-track audio system with volume control and auto-fade between sections",
+    "Custom blade cursor with glow and click ripple effects",
+    "Story Mode toggle for immersive autoplay narrative experience",
+    "Masonry gallery with advanced lightbox (zoom, drag, keyboard nav)",
+    "Auto-rotating quotes engine with glitch transitions",
+    "Dark/Red mode toggle",
+    "Konami code easter egg and bonus interactions",
+    "Grain/noise cinematic texture, glassmorphism panels, vignette effects"
+  ],
+  "category": "entertainment",
+  "tags": [
+    "anime",
+    "attack-on-titan",
+    "cinematic",
+    "interactive",
+    "showcase",
+    "museum",
+    "storytelling"
+  ],
+  "last_updated": "2026-04-21T03:56:26.881Z"
+}
